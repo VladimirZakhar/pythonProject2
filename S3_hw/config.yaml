@@ -1,0 +1,5 @@
+folder_in: "/home/gt/folder_in/"
+folder_out: "/home/gt/folder_out/"
+folder_ext: "/home/gt/folder_ext/"
+stat_file: "stat.txt"
+files: [ "file1.txt", "file2.txt", "file3.txt" ]
